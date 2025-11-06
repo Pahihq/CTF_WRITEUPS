@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b52749bf8fcb0b7a",
+        "id": "da4e2650f8bbfb63",
         "type": "tabs",
         "children": [
           {
-            "id": "bc83253b5c293181",
+            "id": "65daa925b74640e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,87 +22,33 @@
             }
           },
           {
-            "id": "a260187fdaf460f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "13dc92952fd67938",
+            "id": "fd02b8ec71c45531",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "MISC/Скоростные пазлы 1-2-3/Puzzel-2.png"
+                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-1.png"
               },
               "icon": "lucide-image",
-              "title": "Puzzel-2"
+              "title": "Puzzel-1"
             }
           },
           {
-            "id": "88cc2f6de9e83a56",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MISC/Скоростные пазлы 1-2-3/Puzzel-3.png"
-              },
-              "icon": "lucide-image",
-              "title": "Puzzel-3"
-            }
-          },
-          {
-            "id": "885e6be0406d0be3",
+            "id": "bf1a717e945046da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/Скоростные пазлы 1-2-3/Скоростные пазлы 1-2-3.md",
+                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Скоростные пазлы 1-2-3"
-            }
-          },
-          {
-            "id": "9e069fd19c2928ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REV/Тихий страж/Тихий страж.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Тихий страж"
-            }
-          },
-          {
-            "id": "83137968c8ce5b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REV/Почувствуй радугу/Почувствуй радугу.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Почувствуй радугу"
+              "title": "solve"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REV/Почувствуй радугу/Почувствуй радугу.md",
+                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Почувствуй радугу"
+              "title": "Обратные ссылки для solve"
             }
           },
           {
@@ -194,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REV/Почувствуй радугу/Почувствуй радугу.md",
+                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Почувствуй радугу"
+              "title": "Исходящие ссылки из solve"
             }
           },
           {
@@ -223,17 +169,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REV/Почувствуй радугу/Почувствуй радугу.md",
+                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Почувствуй радугу"
+              "title": "Структура solve"
             }
           },
           {
-            "id": "5eaafeb9599da86d",
+            "id": "42b886c548e01e60",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -262,25 +208,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83137968c8ce5b17",
+  "active": "884d851a5edd2cf7",
   "lastOpenFiles": [
-    "REV/Почувствуй радугу/rainbow.png",
-    "REV/Тихий страж/Тихий страж.md",
-    "REV/Тихий страж/Strag.png",
+    "Багодельня/MISC/Морзянка на Arduino/solve.md",
+    "Багодельня/MISC/Морзянка на Arduino/morze-led.mov",
+    "Багодельня/REV/Тихий страж/solve.md",
+    "Багодельня/img/Strag.png",
+    "Багодельня/img/rainbow.png",
+    "Багодельня/REV/Почувствуй радугу/solve.md",
+    "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
+    "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-2.png",
+    "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-3.png",
+    "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-1.png",
+    "Багодельня/img/Puzzel-1.png",
+    "Багодельня/img/Puzzel-2.png",
+    "Багодельня/img/Puzzel-3.png",
+    "Багодельня/img",
+    "morze-led.mov",
+    "morze.ino",
+    "Без названия",
     "README.md",
-    "REV/Почувствуй радугу/Почувствуй радугу.md",
-    "REV/Почувствуй радугу",
-    "MISC",
-    "REV",
+    "Багодельня/MISC/Морзянка на Arduino",
+    "Багодельня/REV/Почувствуй радугу",
+    "Багодельня/MISC",
+    "Багодельня/REV",
     "Багодельня/README.md",
-    "REV/Тихий страж",
-    "MISC/Скоростные пазлы 1-2-3/Скоростные пазлы 1-2-3.md",
-    "MISC/Скоростные пазлы 1-2-3/Puzzel-1.png",
-    "MISC/Скоростные пазлы 1-2-3/Puzzel-3.png",
-    "MISC/Скоростные пазлы 1-2-3/Puzzel-2.png",
-    "MISC/Скоростные пазлы 1-2-3",
-    "Багодельня",
-    "Без названия.base",
+    "Багодельня/REV/Тихий страж",
     "2025-11-05.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
