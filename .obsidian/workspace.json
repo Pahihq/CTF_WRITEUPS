@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
+                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
                 "mode": "source",
                 "source": false
               },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
+                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
+                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
+                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,15 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "884d851a5edd2cf7",
+  "active": "bf1a717e945046da",
   "lastOpenFiles": [
-    "Багодельня/MISC/Морзянка на Arduino/solve.md",
     "Багодельня/MISC/Морзянка на Arduino/morze-led.mov",
-    "Багодельня/REV/Тихий страж/solve.md",
-    "Багодельня/img/Strag.png",
     "Багодельня/img/rainbow.png",
-    "Багодельня/REV/Почувствуй радугу/solve.md",
+    "Багодельня/img/Strag.png",
+    "Багодельня/img/arduino.png",
     "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
+    "Багодельня/MISC/Морзянка на Arduino/solve.md",
+    "Багодельня/REV/Тихий страж/solve.md",
+    "Багодельня/REV/Почувствуй радугу/solve.md",
     "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-2.png",
     "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-3.png",
     "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-1.png",

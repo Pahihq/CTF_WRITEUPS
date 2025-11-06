@@ -210,3 +210,5 @@ except KeyboardInterrupt:
     print("\nВыход.")
     decode_current_morse()
 ```
+
+![Puzzel 3](arduino.png)
