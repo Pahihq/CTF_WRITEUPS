@@ -1,4 +1,4 @@
-# Багодельня - CTF Writeups
+#CTF Writeups
 
 Коллекция решений задач CTF от Bug Makers.
 
