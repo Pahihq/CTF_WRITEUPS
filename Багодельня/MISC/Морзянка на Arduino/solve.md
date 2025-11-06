@@ -211,4 +211,4 @@ except KeyboardInterrupt:
     decode_current_morse()
 ```
 
-![Puzzel 3](arduino.png)
+![arduino](../../img/arduino.png)

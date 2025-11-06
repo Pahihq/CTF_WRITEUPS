@@ -46,7 +46,7 @@ if (iVar2 != -1) {
 - ключ `"YnJ1aA=="`,
 - длину ключа `8`.
 
-![strag](Strag.png)
+![strag](../../img/Strag.png)
 
 ---
 ### 3. Что делает `FUN_00101345`

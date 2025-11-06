@@ -166,7 +166,7 @@
 
 ```
 
-![Puzzel 1](Puzzel-1.png)
-![Puzzel 2](Puzzel-2.png)
-![Puzzel 3](Puzzel-3.png)
+![Puzzel 1](../../img/Puzzel-1.png)
+![Puzzel 2](../../img/Puzzel-2.png)
+![Puzzel 3](../../img/Puzzel-3.png)
 
