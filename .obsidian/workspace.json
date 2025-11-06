@@ -11,35 +11,21 @@
             "id": "65daa925b74640e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "fd02b8ec71c45531",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-1.png"
+                "file": "Багодельня/img/2500-puzzel.png"
               },
               "icon": "lucide-image",
-              "title": "Puzzel-1"
+              "title": "2500-puzzel"
             }
           },
           {
-            "id": "bf1a717e945046da",
+            "id": "a0574031112c1afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
+                "file": "Багодельня/MISC/Ангара-1-2-3/solve.md",
                 "mode": "source",
                 "source": false
               },
@@ -48,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,31 +102,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "884d851a5edd2cf7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для solve"
-            }
-          },
-          {
             "id": "e04c0dc9ce38cb79",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
+                "file": "Багодельня/MISC/Ангара-1-2-3/solve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -169,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Багодельня/MISC/Морзянка на Arduino/solve.md",
+                "file": "Багодельня/MISC/Ангара-1-2-3/solve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,33 +175,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf1a717e945046da",
+  "active": "a0574031112c1afa",
   "lastOpenFiles": [
+    "Багодельня/img/ангара-3-4.png",
+    "Багодельня/MISC/Ангара-1-2-3/solve.md",
+    "Багодельня/img/ангара-3-3.png",
+    "Багодельня/img/ангара-3-2.png",
+    "Багодельня/img/ангара-3-1.png",
+    "Багодельня/img/ангара-2-1.png",
+    "Багодельня/img/ангара-2.png",
+    "Pasted image 20251106164857.png",
+    "Багодельня/img/Strag.png",
+    "Pasted image 20251106164813.png",
+    "Pasted image 20251106164644.png",
+    "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
+    "README.md",
+    "Багодельня/MISC/Ангара-1-2-3",
+    "Багодельня/MISC/Пазл из 2500 кусочков/solve.md",
     "Багодельня/MISC/Морзянка на Arduino/morze-led.mov",
+    "Багодельня/MISC/Морзянка на Arduino/solve.md",
+    "Багодельня/MISC/Пазл из 2500 кусочков",
     "Багодельня/REV/Тихий страж/solve.md",
     "Багодельня/REV/Почувствуй радугу/solve.md",
-    "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
-    "Багодельня/MISC/Морзянка на Arduino/solve.md",
-    "Багодельня/img/rainbow.png",
-    "Багодельня/img/Strag.png",
-    "Багодельня/img/arduino.png",
-    "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-2.png",
-    "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-3.png",
-    "Багодельня/MISC/Скоростные пазлы 1-2-3/Puzzel-1.png",
-    "Багодельня/img/Puzzel-1.png",
-    "Багодельня/img/Puzzel-2.png",
-    "Багодельня/img/Puzzel-3.png",
     "Багодельня/img",
     "morze-led.mov",
     "morze.ino",
-    "Без названия",
-    "README.md",
     "Багодельня/MISC/Морзянка на Arduino",
     "Багодельня/REV/Почувствуй радугу",
     "Багодельня/MISC",
     "Багодельня/REV",
     "Багодельня/README.md",
-    "Багодельня/REV/Тихий страж",
     "2025-11-05.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
