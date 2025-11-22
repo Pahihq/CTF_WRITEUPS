@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Багодельня/solve_template.md",
+                "file": "Багодельня/Welcome/Условный реверс/solve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solve_template"
+              "title": "solve"
             }
           }
         ],
@@ -57,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -154,6 +154,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "adae00cc7dff3301",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Багодельня/Welcome/Условный реверс/solve.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for solve"
+            }
           }
         ],
         "currentTab": 3
@@ -164,23 +183,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "a0574031112c1afa",
   "lastOpenFiles": [
+    "Багодельня/REV/Тихий страж/solve.md",
+    "Багодельня/Welcome/Условный реверс/solve.md",
+    "Багодельня/img/условный_реверс.png",
+    "Багодельня/Welcome/Условный реверс.md",
+    "Багодельня/Welcome/Условный реверс/Реверс в экселе.xlsx",
+    "Багодельня/Welcome/Реверс в экселе.xlsx",
+    "Багодельня/Welcome/Условный реверс",
+    "tools/README.md",
+    "Багодельня/Welcome",
+    "Багодельня/solve_template.md",
     "Багодельня/README.md",
     "Багодельня/MISC/Пазл из 2500 кусочков/2500-puzzles-flag.zip",
     "Багодельня/MISC/Ангара-1-2-3/solve.md",
-    "Багодельня/solve_template.md",
     "Багодельня/REV/TEMPLATE_SOLVE.md",
     "Багодельня/img/ангара-3-4.png",
     "Багодельня/img/ангара-3-3.png",
@@ -191,7 +219,6 @@
     "Pasted image 20251106164857.png",
     "Багодельня/img/Strag.png",
     "Pasted image 20251106164813.png",
-    "Pasted image 20251106164644.png",
     "Багодельня/MISC/Скоростные пазлы 1-2-3/solve.md",
     "README.md",
     "Багодельня/MISC/Ангара-1-2-3",
@@ -199,14 +226,9 @@
     "Багодельня/MISC/Морзянка на Arduino/morze-led.mov",
     "Багодельня/MISC/Морзянка на Arduino/solve.md",
     "Багодельня/MISC/Пазл из 2500 кусочков",
-    "Багодельня/REV/Тихий страж/solve.md",
     "Багодельня/REV/Почувствуй радугу/solve.md",
     "Багодельня/img",
     "morze-led.mov",
-    "morze.ino",
-    "Багодельня/MISC/Морзянка на Arduino",
-    "Багодельня/REV/Почувствуй радугу",
-    "Багодельня/MISC",
     "2025-11-05.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
