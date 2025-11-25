@@ -11,14 +11,12 @@
             "id": "fc0bcf251bdc3a8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Багодельня/REV/ЗаБАГованная башня/solve.md",
-                "mode": "source",
-                "source": false
+                "file": "Багодельня/Stego/Границы лишь в голове 1-2/must-look-beyond.jpg"
               },
-              "icon": "lucide-file",
-              "title": "solve"
+              "icon": "lucide-image",
+              "title": "must-look-beyond"
             }
           }
         ]
@@ -183,8 +181,18 @@
   },
   "active": "fc0bcf251bdc3a8d",
   "lastOpenFiles": [
-    "Багодельня/REV/Тихий страж/solve.md",
     "Багодельня/REV/ЗаБАГованная башня/solve.md",
+    "Багодельня/Stego/solve.md",
+    "Багодельня/Stego/must-look-beyond.jpg",
+    "Багодельня/Stego/Границы лишь в голове 1-2/solve.md",
+    "Багодельня/Stego/Границы лишь в голове 1-2/must-look-beyond-2.png",
+    "Багодельня/Stego/Границы лишь в голове 1-2/must-look-beyond.jpg",
+    "Багодельня/Stego/Границы лишь в голове 1-2",
+    "Багодельня/Stego/must-look-beyond-2.png",
+    "Багодельня/img/must-look.png",
+    "Багодельня/MISC/Ангара-1-2-3/solve.md",
+    "Багодельня/Stego",
+    "Багодельня/REV/Тихий страж/solve.md",
     "Багодельня/img/hanoi.png",
     "Багодельня/REV/Почувствуй радугу/solve.md",
     "Багодельня/Crypto/Закодированный дед/solve.md",
@@ -209,17 +217,9 @@
     "Багодельня/solve_template.md",
     "Багодельня/README.md",
     "Багодельня/MISC/Пазл из 2500 кусочков/2500-puzzles-flag.zip",
-    "Багодельня/MISC/Ангара-1-2-3/solve.md",
     "Багодельня/REV/TEMPLATE_SOLVE.md",
-    "Багодельня/img/ангара-3-4.png",
-    "Багодельня/img/ангара-3-3.png",
-    "Багодельня/img/ангара-3-2.png",
-    "Багодельня/img/ангара-3-1.png",
-    "Багодельня/img/ангара-2-1.png",
     "Багодельня/MISC/Ангара-1-2-3",
-    "Багодельня/MISC/Морзянка на Arduino/morze-led.mov",
     "Багодельня/MISC/Морзянка на Arduino/solve.md",
-    "Багодельня/MISC/Пазл из 2500 кусочков",
     "2025-11-05.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
